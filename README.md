@@ -1,5 +1,5 @@
 
-## Hey There!
+## :wave: Hi!
 
 <a href="https://twitter.com/AyeshaTahirMe">
   <img align="left" alt="Ayesha Tahir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,7 +19,7 @@
   <br><img src="https://badges.pufler.dev/visits/ayeshatahirme/ayeshatahirme/"><img src="https://badges.pufler.dev/repos/ayeshatahirme"><img src="https://badges.pufler.dev/years/ayeshatahirme"></p>
 
 
-### :wave: About Me 
+### 😝About Me 
 
 - Third year Computer Science student interested in App and Web development.
 - Learn Student Ambassador at Microsoft
