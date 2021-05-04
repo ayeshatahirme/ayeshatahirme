@@ -19,7 +19,7 @@
   <br><img src="https://badges.pufler.dev/visits/ayeshatahirme/ayeshatahirme/"><img src="https://badges.pufler.dev/repos/ayeshatahirme"><img src="https://badges.pufler.dev/years/ayeshatahirme"></p>
 
 
-### 😝About Me 
+### 😝 About Me 
 
 - Third year Computer Science student interested in App and Web development.
 - Learn Student Ambassador at Microsoft
