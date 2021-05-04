@@ -24,7 +24,6 @@
 ### 🤷‍♂️About Me :wave:
 
 - A third year Computer Science student interested in App and Web development.
-- I posting repositories and new software on GitHub for people to use or learn. To see them you can click [here](http://github.com/ayeshatahirme/)!
 
 ### 👨‍💻 Tech Stack
 
