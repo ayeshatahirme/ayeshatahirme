@@ -21,10 +21,10 @@
 
 ### :wave: About Me 
 
-- A third year Computer Science student interested in App and Web development.
+- Third year Computer Science student interested in App and Web development.
 - Learn Student Ambassador at Microsoft
 - Women Techmakers Scholar
-- Developer student Club member (empowered by Google)
+- Developer Student Club member (empowered by Google)
 
 ### 👩🏻‍💻 Tech Stack
 
