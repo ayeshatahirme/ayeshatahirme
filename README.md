@@ -10,9 +10,9 @@
 - Learn Student Ambassador at Microsoft
 - UI/UX and Graphic Designer
 - Web and Flutter Dev
-- Women Techmakers Scholar
+<!-- - Women Techmakers Scholar
 - Writer at Medium
-- [Portfolio](https://ayeshatahirme.github.io/)
+- [Portfolio](https://ayeshatahirme.github.io/) -->
 
 
 ### Medium Blog Posts
