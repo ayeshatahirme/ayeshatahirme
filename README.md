@@ -1,15 +1,7 @@
 ### Ayesha Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### A Student, Developer, Designer and Writer
-
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-#### Talking about my personal stuff:
-
-- Final year CS student
-- Learn Student Ambassador at Microsoft
-- UI/UX and Graphic Designer
-- Web and Flutter Dev
 <!-- - Women Techmakers Scholar
 - Writer at Medium
 - [Portfolio](https://ayeshatahirme.github.io/) -->
