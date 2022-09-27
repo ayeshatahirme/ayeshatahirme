@@ -1,19 +1,18 @@
-### Ayesha Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ### Ayesha Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+ <img align="right" alt="GIF" src="code.gif" width="300" height="200" />
 
  - Women Techmakers Scholar
 - Writer at Medium
 - [Portfolio](https://ayeshatahirme.github.io/) -->
 
-
+<!--
 ### Medium Blog Posts
-<!-- BLOG-POST-LIST:START -->
+ BLOG-POST-LIST:START 
 - [Disk Space Management](https://ayeshatahirme.medium.com/disk-space-management-175077cd296d)
-<!-- BLOG-POST-LIST:END -->
+ BLOG-POST-LIST:END -->
 
-<br>
 
 ### Tools and Technology
 <br>
@@ -53,9 +52,9 @@
 
 <b><b>
 
-![](https://visitor-badge.glitch.me/badge?page_id=ayeshatahirme.ayeshatahirme)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ayeshatahirme.ayeshatahirme)
 <img src="https://badges.pufler.dev/repos/ayeshatahirme"><img src="https://badges.pufler.dev/years/ayeshatahirme">
-
+-->
 
 <div align="center">
   
