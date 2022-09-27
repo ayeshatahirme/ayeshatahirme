@@ -1,8 +1,9 @@
 ### Ayesha Tahir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<!--
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-<!-- - Women Techmakers Scholar
+ - Women Techmakers Scholar
 - Writer at Medium
 - [Portfolio](https://ayeshatahirme.github.io/) -->
 
