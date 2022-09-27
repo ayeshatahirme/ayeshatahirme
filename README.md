@@ -44,7 +44,7 @@
 
 <br>
 
-### My GitHub Stats
+### GitHub Stats
 <br>
 
 [![Ayesha's github stats](https://github-readme-stats.vercel.app/api?username=ayeshatahirme&theme=gotham)](https://github.com/ayeshatahirme/github-readme-stats)
